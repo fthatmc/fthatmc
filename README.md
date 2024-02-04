@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SignalRProject**
 
-- 🌱 I’m currently learning **Full Stack .NET Core Development Programı**
+- 🌱 I’m currently learning **Full Stack .NET Core Development Program**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fthatmc](https://github.com/fthatmc)
 
